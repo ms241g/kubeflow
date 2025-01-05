@@ -1,0 +1,5 @@
+steps:
+- name: 'docker'
+  args: ['build', '-t', 'gcr.io/lyrical-virtue-446215-s6/mlimage', '.']
+- name: 'docker'
+  args: ['push', 'gcr.io/lyrical-virtue-446215-s6/mlimage'] 
