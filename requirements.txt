@@ -1,9 +1,10 @@
-kfp
-python-snappy
-scikit-learn
+sklearn
+matplotlib
 fastapi
 uvicorn
 tfx
-numpy
+python-snappy
+numpy 
 pandas
-matplotlib
+kfp 
+sympy
